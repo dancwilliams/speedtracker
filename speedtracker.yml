@@ -75,7 +75,7 @@ alerts:
 #    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
   slackAlert:
     type: "slack"
-    hookUrl: "363386ec3b4d82857f91ef765c06a397ac07bb0a054aff6d4034333c7caf389f86119b15ae326951fc020002dd7385db62facaf09ba76ff570b9e1c60864f04918c5ca62c80f4a1f835dd9760f"
+    hookUrl: "363386ec3b4d82857f91ef765c06a397ac07bb0a054aff6d4034333c7caf389f86119b15ae326951fc020002dd70e7db17facfea9b8d78b115a8ecc56855933e6af9945fd84e582f8b58df0a34"
 #    channel: "#speedtracker"
 #    username: "SpeedTracker"
     iconEmoji: ":grimacing:"
